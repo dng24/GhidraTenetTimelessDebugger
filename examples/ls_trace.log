@@ -1,0 +1,9 @@
+White-listing image: ls
+Loaded image: 0x559f1ec51000:0x559f1ec7090f -> ls
+Loaded image: 0x7f33c8598000:0x7f33c85be3db -> ld-linux-x86-64.so.2
+Loaded image: 0x7fff05de8000:0x7fff05de8fea -> [vdso]
+Loaded image: 0x7f33b38b2000:0x7f33b3ad9aaf -> libselinux.so.1
+Loaded image: 0x7f33b3673000:0x7f33b38337ff -> libc.so.6
+Loaded image: 0x7f33b35de000:0x7f33b3651107 -> libpcre.so.3
+Loaded image: 0x7f33b35d8000:0x7f33b35dc10f -> libdl.so.2
+Loaded image: 0x7f33b35a9000:0x7f33b35c94bf -> libpthread.so.0

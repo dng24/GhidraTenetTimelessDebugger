@@ -1,0 +1,5 @@
+White-listing image: fib
+Loaded image: 0x5630fa858000:0x5630fa85a17f -> fib
+Loaded image: 0x7fdb0e897000:0x7fdb0e8bd3db -> ld-linux-x86-64.so.2
+Loaded image: 0x7ffd67fe6000:0x7ffd67fe6fea -> [vdso]
+Loaded image: 0x7fdaf9c4f000:0x7fdaf9e0f7ff -> libc.so.6

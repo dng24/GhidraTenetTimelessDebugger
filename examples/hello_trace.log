@@ -1,0 +1,5 @@
+White-listing image: hello
+Loaded image: 0x563c95150000:0x563c9515202f -> hello
+Loaded image: 0x7fb254011000:0x7fb2540373db -> ld-linux-x86-64.so.2
+Loaded image: 0x7fff56dd4000:0x7fff56dd4fea -> [vdso]
+Loaded image: 0x7fb23f3f4000:0x7fb23f5b47ff -> libc.so.6
